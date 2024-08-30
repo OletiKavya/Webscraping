@@ -28,8 +28,8 @@ def fetch_jobs(keyword, api_key, cse_id, location=None, job_type=None):
     return jobs
 
 # Replace with your actual API key and CSE ID
-api_key = 'AIzaSyDnVndOjZ4_XckKLJkza_cvbLpJOkluiWU'
-cse_id = '25f7cc982384c491b'
+api_key = ''
+cse_id = ''
 
 keyword = 'TIBCO developer'
 location = 'Washington'
